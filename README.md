@@ -1,7 +1,7 @@
 <h1 align="center">AI Discovery MCP Server Example</h1>
 
 <p align="center">
-  <img src="../public/ai_discovery_logo_w.png" alt="AI Discovery Logo" width="600">
+  <img src="./public/ai_discovery_logo_w.png" alt="AI Discovery Logo" width="600">
 </p>
 ## Overview
 
